@@ -1,0 +1,17 @@
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\bin\Debug\KeiansBasicWPFApp.exe.config
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\bin\Debug\KeiansBasicWPFApp.exe
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\bin\Debug\KeiansBasicWPFApp.pdb
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\KeiansBasicWPFApp.csprojResolveAssemblyReference.cache
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\App.g.cs
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\KeiansBasicWPFApp_MarkupCompile.cache
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\KeiansBasicWPFApp_MarkupCompile.lref
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\MainWindow.baml
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\KeiansBasicWPFApp.g.resources
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\KeiansBasicWPFApp.Properties.Resources.resources
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\KeiansBasicWPFApp.csproj.GenerateResource.Cache
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\KeiansBasicWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\KeiansBasicWPFApp.exe
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\KeiansBasicWPFApp.pdb
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\BasicOverdraftAccount.g.cs
+C:\Users\Keian\Documents\Employment\Projects\GitHub\KeiansBasicWPFApp\KeiansBasicWPFApp\obj\Debug\BasicOverdraftAccount.baml

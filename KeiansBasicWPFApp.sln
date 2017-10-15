@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeiansBasicWPFApp", "KeiansBasicWPFApp\KeiansBasicWPFApp.csproj", "{EF594FD4-6BB6-4744-A9E1-A0106728A9C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseIt", "ExpenseIt\ExpenseIt.csproj", "{A9F48B45-3873-43A2-8A42-F209EF2ADE4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF594FD4-6BB6-4744-A9E1-A0106728A9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF594FD4-6BB6-4744-A9E1-A0106728A9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF594FD4-6BB6-4744-A9E1-A0106728A9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF594FD4-6BB6-4744-A9E1-A0106728A9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F48B45-3873-43A2-8A42-F209EF2ADE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F48B45-3873-43A2-8A42-F209EF2ADE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F48B45-3873-43A2-8A42-F209EF2ADE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F48B45-3873-43A2-8A42-F209EF2ADE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F919F2-B5C5-4470-BA9D-CD3A7121EAC5}
+	EndGlobalSection
+EndGlobal
